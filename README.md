@@ -46,7 +46,7 @@ This project answers these questions through structured data analysis and visual
 
 | Layer | Tools Used |
 |-------|------------|
-| Data Cleaning | Python (Pandas, NumPy) |
+| Data Cleaning | Python (Pandas) |
 | Data Analysis | SQL (SQL Server / SSMS) |
 | Visualization | Power BI |
 | Data Source | CSV |
