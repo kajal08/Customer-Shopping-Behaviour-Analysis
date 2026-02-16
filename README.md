@@ -107,7 +107,9 @@ Some queries -
 
 <img width="1091" height="585" alt="image" src="https://github.com/user-attachments/assets/58cef71c-beaf-4824-a239-39b8936de2b2" />
 <img width="1094" height="586" alt="image" src="https://github.com/user-attachments/assets/e744b439-053d-4c1e-afbe-80ddc2248dad" />
-
+<img width="559" height="280" alt="Screenshot 2026-02-16 195821" src="https://github.com/user-attachments/assets/ed84f005-988e-42c8-936e-240746df1f5a" />
+<img width="436" height="228" alt="Screenshot 2026-02-16 200411" src="https://github.com/user-attachments/assets/a88f60cd-7ff0-4a53-ada5-d86af1a308ad" />
+<img width="538" height="466" alt="Screenshot 2026-02-16 200451" src="https://github.com/user-attachments/assets/ccea8fff-f47a-4f8d-92d4-2e6417484c4e" />
 
 ---
 
@@ -130,8 +132,6 @@ An executive-level dashboard was built to present insights visually.
 <img width="914" height="504" alt="image" src="https://github.com/user-attachments/assets/4b303e46-42fb-4b62-8380-d4fb417fda56" />
 
 ---
-
-# 📊 Key Business Insights
 
 # 📊 Key Business Insights
 
